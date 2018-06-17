@@ -1,0 +1,12 @@
+name: CI_calculator
+title: CI_calculator
+username:
+account: rmshanley
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 362209
+bundleId: 1433935
+url: https://rmshanley.shinyapps.io/CI_calculator/
+when: 1529254817.14397
+asMultiple: FALSE
+asStatic: FALSE
